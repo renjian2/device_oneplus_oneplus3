@@ -7,12 +7,12 @@
   {
     "repository": "akhilnarang/kernel_oneplus_msm8996",
     "target_path": "kernel/oneplus/msm8996",
-    "branch": "oreo"
+    "branch": "lineage-gerrit/staging/lineage-15.0"
   },
   {
     "repository": "akhilnarang/proprietary_vendor_oneplus",
     "target_path": "vendor/oneplus",
-    "branch": "oreo"
+    "branch": "lineage-15.0"
   },
   {
     "repository": "LineageOS/android_hardware_cyanogen",
