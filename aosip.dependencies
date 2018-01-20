@@ -22,5 +22,11 @@
     "repository" : "LineageOS/android_packages_resources_devicesettings",
     "target_path": "packages/resources/devicesettings",
     "branch"     : "lineage-15.0"
+  },
+  {
+    "repository" : "xlxfoxxlx/kronicgapps",
+    "target_path": "vendor/kronicgapps",
+    "branch"     : "oreo-mr1",
+    "clone-depth": "1"
   }
 ]

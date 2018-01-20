@@ -477,3 +477,5 @@ PRODUCT_COPY_FILES += \
 
 # Inherit from oppo-common
 $(call inherit-product, device/oppo/common/common.mk)
+$(call inherit-product-if-exists, vendor/kronicgapps/kronic-gapps.mk)
+
