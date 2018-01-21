@@ -4,7 +4,7 @@
     "target_path": "device/oppo/common"
   },
   {
-    "repository" : "akhilnarang/kernel_oneplus_msm8996",
+    "repository" : "aosip-devices/kernel_oneplus_msm8996",
     "target_path": "kernel/oneplus/msm8996",
     "branch"     : "oreo-mr1"
   },
